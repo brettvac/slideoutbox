@@ -29,4 +29,4 @@ No external accounts or APIs are needed, just a Joomla installation.
 **A:** The module ID ensures unique cookies (e.g., `mod_slideoutbox_closed_<moduleId>`) to avoid conflicts, even for a single instance.
 
 ## Credits
-- **Joomla! Web Asset Manager** for asset handling, part of Joomla’s core (GPLv2 License)
+- **itoctopus** and **convertbox** for the original idea
