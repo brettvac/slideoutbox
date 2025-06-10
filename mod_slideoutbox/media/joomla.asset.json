@@ -1,0 +1,28 @@
+{
+  "$schema": "https://developer.joomla.org/schemas/json-schema/web_assets.json",
+  "name": "mod_slideoutbox",
+  "version": "1.0",
+  "description": "Slide Out Box Module",
+  "license": "GPL-2.0",
+  "assets": [
+    {
+      "name": "mod_slideoutbox.slideoutbox",
+      "type": "script",
+      "uri": "mod_slideoutbox/slideoutbox.js",
+      "dependencies": [
+        "jquery",
+        "core"
+      ],
+      "attributes": {
+        "type": "module"
+      },
+      "version": "1.0"
+    },
+    {
+      "name": "mod_slideoutbox.slideoutbox",
+      "type": "style",
+      "uri": "mod_slideoutbox/slideoutbox.css",
+      "version": "1.0"
+    }
+  ]
+}
